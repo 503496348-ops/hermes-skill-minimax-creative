@@ -5,15 +5,17 @@ license: MIT
 metadata:
   author: 503496348-ops
   version: 1.5.0
-triggers:
-  - 多媒体生成
-  - 图片生成
-  - 视频生成
-  - fractovision
-  - 破窗造视
 ---
 
 # fractovision
+
+## 触发条件
+
+- 多媒体生成
+- 图片生成
+- 视频生成
+- fractovision
+- 破窗造视
 
 > 📖 详细文档见 `references/` 目录
 
